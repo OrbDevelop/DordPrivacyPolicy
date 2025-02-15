@@ -63,7 +63,3 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 **Email:** orbdevelop@zohomail.eu
 
 By using Dord., you agree to the collection and use of your information as described in this Privacy Policy.
-
----
-
-Feel free to adjust any sections further to match any additional features or future changes to the app’s data handling practices.
